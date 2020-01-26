@@ -1,4 +1,4 @@
-# Taiga
+# Taiga+
 
 [![](https://img.shields.io/github/license/erengy/taiga)](https://github.com/erengy/taiga/blob/master/LICENSE)
 [![](https://img.shields.io/github/v/release/erengy/taiga)](https://taiga.moe/download.php)
@@ -8,8 +8,11 @@ Taiga is an open-source desktop application for Windows. It automatically detect
 
 Visit our [home page](https://taiga.moe) for more information. See the [guidelines](https://github.com/erengy/taiga/wiki/Guidelines) if you'd like to contribute. Here's [how to compile](https://github.com/erengy/taiga/wiki/How-to-Compile).
 
+Taiga+ is a personal fork of Taiga, all credit of the base client goes to erengy.
+
 ## Related projects
 
+- [Taiga](https://github.com/erengy/anime-relations): Classic Taiga
 - [Anime relations](https://github.com/erengy/anime-relations): Episode redirections
 - [Anisthesia](https://github.com/erengy/anisthesia): Media detection library
 - [Anitomy](https://github.com/erengy/anitomy): Anime video filename parser
